@@ -58,6 +58,7 @@ class LinkedList {
             System.out.println("4. Exit");
             System.out.print("Enter your choice: ");
             choice = in.nextInt();
+            //menu driven
             switch (choice) {
                 case 1:
                     System.out.print("Enter data for new node: ");
