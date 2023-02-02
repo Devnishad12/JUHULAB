@@ -69,7 +69,7 @@ class LinkedList {
                     System.out.println("Inserting node at start is already implemented.");
                     break;
                 case 3:
-                    list.display();
+                    list.display();//display
                     break;
                 case 4:
                     System.out.println("Exiting...");
